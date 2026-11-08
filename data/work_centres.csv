@@ -1,0 +1,7 @@
+work_centre_id,work_centre_name,machine_type,available_hours_per_day,efficiency_pct,active
+WC-CAST,Casting Cell,Casting,8,90,TRUE
+WC-HT,Heat Treatment Cell,Heat Treatment,8,85,TRUE
+WC-CNC,CNC Machining Cell,CNC,8,90,TRUE
+WC-DRILL,Drilling Cell,Drilling,8,90,TRUE
+WC-ASSEMBLY,Engine Assembly Line,Assembly,8,95,TRUE
+WC-QA,Quality Inspection Station,Inspection,8,95,TRUE

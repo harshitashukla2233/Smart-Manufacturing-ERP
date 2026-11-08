@@ -1,0 +1,3 @@
+production_order_id,product_id,order_qty,due_date,priority,status
+PO-1001,ENG-100,100,2026-11-18,HIGH,PLANNED
+PO-1002,ENG-100,50,2026-11-20,MEDIUM,PLANNED
